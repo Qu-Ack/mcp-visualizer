@@ -15,6 +15,13 @@ This is that tool.
 
 ---
 
+
+## TODO:
+
+- [ ] make shapes for different mcp components
+- [ ] feed back 
+
+
 ## 🚧 MVP Roadmap
 
 - [ ] Decide node types (`Model`, `Context`, `Protocol`)
