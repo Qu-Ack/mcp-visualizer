@@ -18,8 +18,7 @@ This is that tool.
 
 ## TODO:
 
-- [ ] make shapes for different mcp components
-- [ ] feed back 
+- [ ] Design A fully oiled machine for adding nodes and leave room to add rules to the connections of those nodes or which nodes can be children of which nodes 
 
 
 ## 🚧 MVP Roadmap

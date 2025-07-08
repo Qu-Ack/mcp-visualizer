@@ -67,8 +67,6 @@ export function DragAndDrop() {
         data: { label: `${type} node` },
       };
 
-      debugger;
-
       setNodes((nds) => nds.concat(newNode));
     },
     [screenToFlowPosition, type],
