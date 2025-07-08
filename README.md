@@ -24,9 +24,9 @@ This is that tool.
 
 ## 🚧 MVP Roadmap
 
-- [ ] Decide node types (`Model`, `Context`, `Protocol`)
-- [ ] Drag-and-drop UI system
-- [ ] Connect nodes visually
+- [ x ] Decide node types (`Model`, `Context`, `Protocol`)
+- [ x ] Drag-and-drop UI system
+- [ x ] Connect nodes visually
 - [ ] Visual + UX feedback on connection logic
 - [ ] Simulation panel
 - [ ] Feedback from simulation
